@@ -1,9 +1,4 @@
- 
-//***************************************************************
-// HEADER FILE USED IN PROJECT
-//Supermarket-Project
-//Supermarket Project management
-//****************************************************************
+
 #include <iostream>
 #include<conio.h>
 #include<stdio.h>
